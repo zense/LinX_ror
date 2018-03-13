@@ -17,6 +17,8 @@ gem 'bootstrap-generators', '~> 3.3.4'
 
 gem 'omniauth'
 
+gem 'omniauth-scaffold'
+
 gem "omniauth-google-oauth2", "~> 0.2.1"
 
 gem 'omniauth-facebook', '1.4.0'
