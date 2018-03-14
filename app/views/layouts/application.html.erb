@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="">
   <meta name="author" content="">
-  <title>Starter Template for Bootstrap</title>
+  <title>Google auth example</title>
 
   <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
   <!--[if lt IE 9]>
@@ -45,8 +45,16 @@
         <%= msg %>
       <% end %>
     <% end %>
-
+    <div>
+        <% if current_user %>
+          Signed in as <strong><%= current_user.name %></strong>!
+          <%= link_to "Sign out", signout_path, id: "sign_out" %>
+        <% else %>
+          <%= link_to "Sign in with Google", "/auth/google_oauth2", id: "sign_in" %>
+        <% end %>
+      </div>
     <%= yield %>
   </div>
+
 </body>
 </html>

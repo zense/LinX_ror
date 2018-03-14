@@ -1769,3 +1769,1970 @@ Processing by HomeController#show as HTML
 Completed 200 OK in 76ms (Views: 72.9ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/" for 127.0.0.1 at 2018-03-14 00:26:45 +0530
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (6.7ms)
+Completed 200 OK in 4238ms (Views: 4227.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-14 00:26:57 +0530
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 50ms (Views: 49.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-14 00:27:00 +0530
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 71ms (Views: 70.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-14 00:27:02 +0530
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 51ms (Views: 49.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-14 00:27:04 +0530
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 76ms (Views: 74.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-14 00:27:05 +0530
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 78ms (Views: 76.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-14 00:27:06 +0530
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 96ms (Views: 94.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-14 00:27:10 +0530
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 111ms (Views: 108.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-14 00:27:15 +0530
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 81ms (Views: 79.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-14 00:27:17 +0530
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 64ms (Views: 59.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-14 00:27:18 +0530
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 64ms (Views: 62.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-14 00:27:19 +0530
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 64ms (Views: 62.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-14 00:27:24 +0530
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 76ms (Views: 75.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-14 00:27:25 +0530
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 73ms (Views: 71.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-14 00:27:26 +0530
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 68ms (Views: 67.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-14 00:27:27 +0530
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 60ms (Views: 57.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-14 00:31:11 +0530
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by UsersController#index as HTML
+Completed 500 Internal Server Error in 9ms (ActiveRecord: 0.0ms)
+
+
+  
+NameError (uninitialized constant ApplicationRecord::Base):
+  
+app/models/user.rb:1:in `<top (required)>'
+app/controllers/users_controller.rb:7:in `index'
+Started GET "/" for 127.0.0.1 at 2018-03-14 00:31:16 +0530
+Processing by UsersController#index as HTML
+Completed 500 Internal Server Error in 23ms (ActiveRecord: 0.0ms)
+
+
+  
+NameError (uninitialized constant ApplicationRecord::Base):
+  
+app/models/user.rb:1:in `<top (required)>'
+app/controllers/users_controller.rb:7:in `index'
+Started GET "/" for 127.0.0.1 at 2018-03-14 00:47:30 +0530
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by UsersController#index as HTML
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  Rendered users/index.html.erb within layouts/application (33.1ms)
+Completed 200 OK in 1896ms (Views: 1886.4ms | ActiveRecord: 0.9ms)
+
+
+Started GET "/users/new" for 127.0.0.1 at 2018-03-14 00:48:11 +0530
+Processing by UsersController#new as HTML
+  Rendering users/new.html.erb within layouts/application
+  Rendered users/_form.html.erb (321.3ms)
+  Rendered users/new.html.erb within layouts/application (323.5ms)
+Completed 200 OK in 438ms (Views: 435.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/users" for 127.0.0.1 at 2018-03-14 00:48:24 +0530
+Processing by UsersController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"kKSf3jkKszFi+BLsiEsrdkbOrajY3i/Hn4v6qwJFV3flXQRVXMR0NO0ehZgZio4jOGHXM/JtDkv9kJgjWz2Ryg==", "user"=>{"name"=>"Nimisha Garg", "email"=>"xyz", "bio"=>"abc"}, "commit"=>"Create User"}
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.8ms)[0m  [1m[32mINSERT INTO "users" ("name", "email", "bio", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "Nimisha Garg"], ["email", "xyz"], ["bio", "abc"], ["created_at", "2018-03-13 19:18:24.079988"], ["updated_at", "2018-03-13 19:18:24.079988"]]
+  [1m[35m (381.7ms)[0m  [1m[36mcommit transaction[0m
+Redirected to http://localhost:3000/users/8
+Completed 302 Found in 394ms (ActiveRecord: 383.4ms)
+
+
+Started GET "/users/8" for 127.0.0.1 at 2018-03-14 00:48:24 +0530
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"8"}
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 8], ["LIMIT", 1]]
+  Rendering users/show.html.erb within layouts/application
+  Rendered users/show.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 81ms (Views: 56.1ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/users" for 127.0.0.1 at 2018-03-14 00:48:37 +0530
+Processing by UsersController#index as HTML
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  Rendered users/index.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 75ms (Views: 73.8ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/users/6/edit" for 127.0.0.1 at 2018-03-14 00:48:48 +0530
+Processing by UsersController#edit as HTML
+  Parameters: {"id"=>"6"}
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 6], ["LIMIT", 1]]
+  Rendering users/edit.html.erb within layouts/application
+  Rendered users/_form.html.erb (4.1ms)
+  Rendered users/edit.html.erb within layouts/application (6.1ms)
+Completed 200 OK in 71ms (Views: 69.0ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/users" for 127.0.0.1 at 2018-03-14 00:48:52 +0530
+Processing by UsersController#index as HTML
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  Rendered users/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 74ms (Views: 72.8ms | ActiveRecord: 0.2ms)
+
+
+Started DELETE "/users/6" for 127.0.0.1 at 2018-03-14 00:48:57 +0530
+Processing by UsersController#destroy as HTML
+  Parameters: {"authenticity_token"=>"jtJywNaFl36C1FP8PaPAmNnfJ79aosSVZQsUi1lA/rYvQD766z91VlZXlBedVW2hoylHnGpdCmNoNZBauaAwBw==", "id"=>"6"}
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 6], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (1.5ms)[0m  [1m[31mDELETE FROM "users" WHERE "users"."id" = ?[0m  [["id", 6]]
+  [1m[35m (471.8ms)[0m  [1m[36mcommit transaction[0m
+Redirected to http://localhost:3000/users
+Completed 302 Found in 479ms (ActiveRecord: 473.5ms)
+
+
+Started GET "/users" for 127.0.0.1 at 2018-03-14 00:48:58 +0530
+Processing by UsersController#index as HTML
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  Rendered users/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 40ms (Views: 38.8ms | ActiveRecord: 0.2ms)
+
+
+Started DELETE "/users/8" for 127.0.0.1 at 2018-03-14 00:49:04 +0530
+Processing by UsersController#destroy as HTML
+  Parameters: {"authenticity_token"=>"uLX9JJaiSl8n8DNFyxHJLgsqxhDRQXb5xndd3MbATnoZJ7Eeqxiod/Nz9K5r52QXcdymM+G+uA/LSdkNJiCAyw==", "id"=>"8"}
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 8], ["LIMIT", 1]]
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.3ms)[0m  [1m[31mDELETE FROM "users" WHERE "users"."id" = ?[0m  [["id", 8]]
+  [1m[35m (313.3ms)[0m  [1m[36mcommit transaction[0m
+Redirected to http://localhost:3000/users
+Completed 302 Found in 318ms (ActiveRecord: 313.8ms)
+
+
+Started GET "/users" for 127.0.0.1 at 2018-03-14 00:49:05 +0530
+Processing by UsersController#index as HTML
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  Rendered users/index.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 61ms (Views: 60.2ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/users/new" for 127.0.0.1 at 2018-03-14 00:49:07 +0530
+Processing by UsersController#new as HTML
+  Rendering users/new.html.erb within layouts/application
+  Rendered users/_form.html.erb (3.7ms)
+  Rendered users/new.html.erb within layouts/application (5.0ms)
+Completed 200 OK in 100ms (Views: 99.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/users" for 127.0.0.1 at 2018-03-14 00:49:42 +0530
+Processing by UsersController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"gAeLUp9Z1LRgOwrj/R+tWdPt0EfAka0JPbRC4zqtWd31/hDZ+pcTse/dnZds3ggMrUKq3OoijIVfryBrY9WfYA==", "user"=>{"name"=>"nimisha", "email"=>"nimishagarg.ng@gmail.com", "bio"=>"Awesome"}, "commit"=>"Create User"}
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.4ms)[0m  [1m[32mINSERT INTO "users" ("name", "email", "bio", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "nimisha"], ["email", "nimishagarg.ng@gmail.com"], ["bio", "Awesome"], ["created_at", "2018-03-13 19:19:42.821610"], ["updated_at", "2018-03-13 19:19:42.821610"]]
+  [1m[35m (219.5ms)[0m  [1m[36mcommit transaction[0m
+Redirected to http://localhost:3000/users/9
+Completed 302 Found in 227ms (ActiveRecord: 219.9ms)
+
+
+Started GET "/users/9" for 127.0.0.1 at 2018-03-14 00:49:43 +0530
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"9"}
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 9], ["LIMIT", 1]]
+  Rendering users/show.html.erb within layouts/application
+  Rendered users/show.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 65ms (Views: 62.6ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/users" for 127.0.0.1 at 2018-03-14 00:49:54 +0530
+Processing by UsersController#index as HTML
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  Rendered users/index.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 85ms (Views: 83.5ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/users" for 127.0.0.1 at 2018-03-14 00:49:58 +0530
+Processing by UsersController#index as HTML
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  Rendered users/index.html.erb within layouts/application (5.9ms)
+Completed 200 OK in 75ms (Views: 72.8ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/users" for 127.0.0.1 at 2018-03-14 00:50:01 +0530
+Processing by UsersController#index as HTML
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  Rendered users/index.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 62ms (Views: 61.2ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/users" for 127.0.0.1 at 2018-03-14 00:50:03 +0530
+Processing by UsersController#index as HTML
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (4.3ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  Rendered users/index.html.erb within layouts/application (9.2ms)
+Completed 200 OK in 74ms (Views: 68.6ms | ActiveRecord: 4.3ms)
+
+
+Started GET "/users" for 127.0.0.1 at 2018-03-14 00:50:04 +0530
+Processing by UsersController#index as HTML
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  Rendered users/index.html.erb within layouts/application (3.1ms)
+Completed 200 OK in 68ms (Views: 66.2ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/login" for 127.0.0.1 at 2018-03-14 01:37:11 +0530
+  
+ActionController::RoutingError (No route matches [GET] "/login"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.4) lib/rack/method_override.rb:22:in `call'
+rack (2.0.4) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.4) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.11.2) lib/puma/configuration.rb:225:in `call'
+puma (3.11.2) lib/puma/server.rb:624:in `handle_request'
+puma (3.11.2) lib/puma/server.rb:438:in `process_client'
+puma (3.11.2) lib/puma/server.rb:302:in `block in run'
+puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/" for 127.0.0.1 at 2018-03-14 02:18:23 +0530
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by UsersController#index as HTML
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  Rendered users/index.html.erb within layouts/application (14.2ms)
+Completed 200 OK in 873ms (Views: 840.1ms | ActiveRecord: 0.9ms)
+
+
+Started GET "/login" for 127.0.0.1 at 2018-03-14 02:18:33 +0530
+  
+AbstractController::ActionNotFound (The action 'new' could not be found for SessionsController):
+  
+actionpack (5.1.4) lib/abstract_controller/base.rb:119:in `process'
+actionview (5.1.4) lib/action_view/rendering.rb:30:in `process'
+actionpack (5.1.4) lib/action_controller/metal.rb:189:in `dispatch'
+actionpack (5.1.4) lib/action_controller/metal.rb:253:in `dispatch'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:49:in `dispatch'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:31:in `serve'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:50:in `block in serve'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:33:in `each'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:33:in `serve'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:834:in `call'
+omniauth (1.8.1) lib/omniauth/strategy.rb:190:in `call!'
+omniauth (1.8.1) lib/omniauth/strategy.rb:168:in `call'
+omniauth (1.8.1) lib/omniauth/builder.rb:63:in `call'
+rack (2.0.4) lib/rack/etag.rb:25:in `call'
+rack (2.0.4) lib/rack/conditional_get.rb:25:in `call'
+rack (2.0.4) lib/rack/head.rb:12:in `call'
+rack (2.0.4) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.4) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/cookies.rb:613:in `call'
+activerecord (5.1.4) lib/active_record/migration.rb:556:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+activesupport (5.1.4) lib/active_support/callbacks.rb:97:in `run_callbacks'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.4) lib/rack/method_override.rb:22:in `call'
+rack (2.0.4) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.4) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.11.2) lib/puma/configuration.rb:225:in `call'
+puma (3.11.2) lib/puma/server.rb:624:in `handle_request'
+puma (3.11.2) lib/puma/server.rb:438:in `process_client'
+puma (3.11.2) lib/puma/server.rb:302:in `block in run'
+puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/auth/facebook" for 127.0.0.1 at 2018-03-14 02:24:05 +0530
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  
+ActionController::RoutingError (No route matches [GET] "/auth/facebook"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.4) lib/rack/method_override.rb:22:in `call'
+rack (2.0.4) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.4) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.11.2) lib/puma/configuration.rb:225:in `call'
+puma (3.11.2) lib/puma/server.rb:624:in `handle_request'
+puma (3.11.2) lib/puma/server.rb:438:in `process_client'
+puma (3.11.2) lib/puma/server.rb:302:in `block in run'
+puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/auth/google" for 127.0.0.1 at 2018-03-14 02:24:13 +0530
+  
+ActionController::RoutingError (No route matches [GET] "/auth/google"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.4) lib/rack/method_override.rb:22:in `call'
+rack (2.0.4) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.4) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.11.2) lib/puma/configuration.rb:225:in `call'
+puma (3.11.2) lib/puma/server.rb:624:in `handle_request'
+puma (3.11.2) lib/puma/server.rb:438:in `process_client'
+puma (3.11.2) lib/puma/server.rb:302:in `block in run'
+puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/" for 127.0.0.1 at 2018-03-14 17:49:35 +0530
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by UsersController#index as HTML
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  Rendered users/index.html.erb within layouts/application (25.7ms)
+Completed 200 OK in 882ms (Views: 845.1ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2018-03-14 17:49:46 +0530
+(google_oauth2) Request phase initiated.
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2018-03-14 17:49:46 +0530
+(google_oauth2) Request phase initiated.
+Started GET "/" for 127.0.0.1 at 2018-03-14 17:51:00 +0530
+Processing by UsersController#index as HTML
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  Rendered users/index.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 52ms (Views: 49.9ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2018-03-14 17:51:09 +0530
+(google_oauth2) Request phase initiated.
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2018-03-14 17:51:09 +0530
+(google_oauth2) Request phase initiated.
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2018-03-14 17:52:52 +0530
+(google_oauth2) Request phase initiated.
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2018-03-14 17:52:52 +0530
+(google_oauth2) Request phase initiated.
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2018-03-14 18:27:02 +0530
+(google_oauth2) Request phase initiated.
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2018-03-14 18:27:03 +0530
+(google_oauth2) Request phase initiated.
+Started GET "/" for 127.0.0.1 at 2018-03-14 18:41:17 +0530
+  [1m[35m (0.8ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by UsersController#index as HTML
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  Rendered users/index.html.erb within layouts/application (20.4ms)
+Completed 200 OK in 957ms (Views: 925.4ms | ActiveRecord: 1.1ms)
+
+
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2018-03-14 18:41:21 +0530
+(google_oauth2) Request phase initiated.
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2018-03-14 18:41:24 +0530
+(google_oauth2) Request phase initiated.
+Started GET "/auth/google_oauth2/callback?code=4/AAA1eb03Wp7619UTVMl3t39lTlCv5PqE4zurgZS37qXPfhjUcdK8G0iidrWqjTpF3nUezv0smaCQJZXUx5vz3LI" for 127.0.0.1 at 2018-03-14 18:41:33 +0530
+(google_oauth2) Callback phase initiated.
+Processing by SessionsController#create as HTML
+  Parameters: {"code"=>"4/AAA1eb03Wp7619UTVMl3t39lTlCv5PqE4zurgZS37qXPfhjUcdK8G0iidrWqjTpF3nUezv0smaCQJZXUx5vz3LI", "provider"=>"google_oauth2"}
+Completed 500 Internal Server Error in 158ms (ActiveRecord: 0.0ms)
+
+
+  
+NameError (undefined local variable or method `env' for #<SessionsController:0x00007fd69a783c78>):
+  
+app/controllers/sessions_controller.rb:3:in `create'
+Started GET "/auth/google_oauth2/callback?code=4%2FAAB4nls57iim9aD8ZA2t8KLiQF_UW2m3Y2G_XK9vvM2ntygWALr9CKX_NC0MG7PQXEblqWsR4ZhI8Ugtc78dcz0" for 127.0.0.1 at 2018-03-14 18:53:07 +0530
+(google_oauth2) Callback phase initiated.
+Processing by SessionsController#create as HTML
+  Parameters: {"code"=>"4/AAB4nls57iim9aD8ZA2t8KLiQF_UW2m3Y2G_XK9vvM2ntygWALr9CKX_NC0MG7PQXEblqWsR4ZhI8Ugtc78dcz0", "provider"=>"google_oauth2"}
+Completed 500 Internal Server Error in 123ms (ActiveRecord: 0.0ms)
+
+
+  
+NameError (undefined local variable or method `env' for #<SessionsController:0x00007fd69a54fb28>):
+  
+app/controllers/sessions_controller.rb:3:in `create'
+Started POST "/__web_console/repl_sessions/dd826240114e9bf8a67142332d7b2fb2/trace" for 127.0.0.1 at 2018-03-14 19:00:29 +0530
+Started POST "/__web_console/repl_sessions/dd826240114e9bf8a67142332d7b2fb2/trace" for 127.0.0.1 at 2018-03-14 19:00:34 +0530
+Started POST "/__web_console/repl_sessions/dd826240114e9bf8a67142332d7b2fb2/trace" for 127.0.0.1 at 2018-03-14 19:00:34 +0530
+Started GET "/users/9" for 127.0.0.1 at 2018-03-14 19:01:01 +0530
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"9"}
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 9], ["LIMIT", 1]]
+  Rendering users/show.html.erb within layouts/application
+  Rendered users/show.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 272ms (Views: 232.9ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/users" for 127.0.0.1 at 2018-03-14 19:01:05 +0530
+Processing by UsersController#index as HTML
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  Rendered users/index.html.erb within layouts/application (2.8ms)
+Completed 200 OK in 70ms (Views: 59.8ms | ActiveRecord: 0.3ms)
+
+
+Started DELETE "/users/9" for 127.0.0.1 at 2018-03-14 19:01:08 +0530
+Processing by UsersController#destroy as HTML
+  Parameters: {"authenticity_token"=>"hzpy2hd9argISF99iQuyZ4iCEbbuqA6shBw890g0l90mqD7gKseIkNzLmJYp/R9e8nRxld5XwFqJIrgmqNRZbA==", "id"=>"9"}
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 9], ["LIMIT", 1]]
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (1.5ms)[0m  [1m[31mDELETE FROM "users" WHERE "users"."id" = ?[0m  [["id", 9]]
+  [1m[35m (109.9ms)[0m  [1m[36mcommit transaction[0m
+Redirected to http://localhost:3000/users
+Completed 302 Found in 117ms (ActiveRecord: 111.8ms)
+
+
+Started GET "/users" for 127.0.0.1 at 2018-03-14 19:01:08 +0530
+Processing by UsersController#index as HTML
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  Rendered users/index.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 66ms (Views: 64.4ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/users/new" for 127.0.0.1 at 2018-03-14 19:01:11 +0530
+Processing by UsersController#new as HTML
+  Rendering users/new.html.erb within layouts/application
+  Rendered users/_form.html.erb (137.6ms)
+  Rendered users/new.html.erb within layouts/application (143.3ms)
+Completed 200 OK in 209ms (Views: 201.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2018-03-14 19:01:15 +0530
+(google_oauth2) Request phase initiated.
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2018-03-14 19:01:15 +0530
+(google_oauth2) Request phase initiated.
+Started GET "/auth/google_oauth2/callback?code=4/AAB6aOhNorYYmqEv0Nb55XE4C0AQc4J7vjpp9AEMT8xxGGdWSIe_TxYpzNtXcopuuWDrwIyB4tQ1bnUCBDOpgZg" for 127.0.0.1 at 2018-03-14 19:01:15 +0530
+(google_oauth2) Callback phase initiated.
+Processing by SessionsController#create as HTML
+  Parameters: {"code"=>"4/AAB6aOhNorYYmqEv0Nb55XE4C0AQc4J7vjpp9AEMT8xxGGdWSIe_TxYpzNtXcopuuWDrwIyB4tQ1bnUCBDOpgZg", "provider"=>"google_oauth2"}
+Completed 500 Internal Server Error in 150ms (ActiveRecord: 0.0ms)
+
+
+  
+NameError (undefined local variable or method `env' for #<SessionsController:0x00007fd6994a52c8>):
+  
+app/controllers/sessions_controller.rb:3:in `create'
+Started GET "/" for 127.0.0.1 at 2018-03-14 19:01:28 +0530
+Processing by UsersController#index as HTML
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (0.7ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  Rendered users/index.html.erb within layouts/application (10.3ms)
+Completed 200 OK in 157ms (Views: 147.1ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2018-03-14 19:01:31 +0530
+(google_oauth2) Request phase initiated.
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2018-03-14 19:01:31 +0530
+(google_oauth2) Request phase initiated.
+Started GET "/auth/google_oauth2/callback?code=4/AACj-m60vAtLiVW_rGXdVXZW6E_HzHLFA9kKZO0pRIG8xFvnF0jloYi27ex0LOhks6UOZG8buK5bxwm7rJC2VBs" for 127.0.0.1 at 2018-03-14 19:01:31 +0530
+(google_oauth2) Callback phase initiated.
+Processing by SessionsController#create as HTML
+  Parameters: {"code"=>"4/AACj-m60vAtLiVW_rGXdVXZW6E_HzHLFA9kKZO0pRIG8xFvnF0jloYi27ex0LOhks6UOZG8buK5bxwm7rJC2VBs", "provider"=>"google_oauth2"}
+Completed 500 Internal Server Error in 188ms (ActiveRecord: 0.0ms)
+
+
+  
+NameError (undefined local variable or method `env' for #<SessionsController:0x00007fd69a453990>):
+  
+app/controllers/sessions_controller.rb:3:in `create'
+Started GET "/" for 127.0.0.1 at 2018-03-14 19:02:03 +0530
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by UsersController#index as HTML
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  Rendered users/index.html.erb within layouts/application (8.3ms)
+Completed 200 OK in 591ms (Views: 578.7ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2018-03-14 19:02:09 +0530
+(google_oauth2) Request phase initiated.
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2018-03-14 19:02:10 +0530
+(google_oauth2) Request phase initiated.
+Started GET "/auth/google_oauth2/callback?code=4/AABpE_rQirdDyOzzSA1rde548YYTfj58wwEeY2x4xzukUyEPLk6jhzvRiniSO0wLnEQ52BCN0_S4u5B4EuMTY0E" for 127.0.0.1 at 2018-03-14 19:02:10 +0530
+(google_oauth2) Callback phase initiated.
+Processing by SessionsController#create as HTML
+  Parameters: {"code"=>"4/AABpE_rQirdDyOzzSA1rde548YYTfj58wwEeY2x4xzukUyEPLk6jhzvRiniSO0wLnEQ52BCN0_S4u5B4EuMTY0E", "provider"=>"google_oauth2"}
+Completed 500 Internal Server Error in 237ms (ActiveRecord: 0.0ms)
+
+
+  
+NameError (undefined local variable or method `env' for #<SessionsController:0x00007f62051319b0>):
+  
+app/controllers/sessions_controller.rb:3:in `create'
+Started GET "/auth/google_oauth2/callback?code=4/AABpE_rQirdDyOzzSA1rde548YYTfj58wwEeY2x4xzukUyEPLk6jhzvRiniSO0wLnEQ52BCN0_S4u5B4EuMTY0E" for 127.0.0.1 at 2018-03-14 19:03:01 +0530
+(google_oauth2) Callback phase initiated.
+(google_oauth2) Authentication failure! invalid_credentials: OAuth2::Error, invalid_grant: Code was already redeemed.
+{
+  "error" : "invalid_grant",
+  "error_description" : "Code was already redeemed."
+}
+  
+OAuth2::Error (invalid_grant: Code was already redeemed.
+{
+  "error" : "invalid_grant",
+  "error_description" : "Code was already redeemed."
+}):
+  
+oauth2 (0.6.1) lib/oauth2/client.rb:108:in `request'
+oauth2 (0.6.1) lib/oauth2/client.rb:131:in `get_token'
+oauth2 (0.6.1) lib/oauth2/strategy/auth_code.rb:29:in `get_token'
+omniauth-oauth2 (1.0.2) lib/omniauth/strategies/oauth2.rb:87:in `build_access_token'
+omniauth-google-oauth2 (0.2.2) lib/omniauth/strategies/google_oauth2.rb:72:in `custom_build_access_token'
+omniauth-oauth2 (1.0.2) lib/omniauth/strategies/oauth2.rb:62:in `callback_phase'
+omniauth (1.8.1) lib/omniauth/strategy.rb:236:in `callback_call'
+omniauth (1.8.1) lib/omniauth/strategy.rb:188:in `call!'
+omniauth (1.8.1) lib/omniauth/strategy.rb:168:in `call'
+omniauth (1.8.1) lib/omniauth/builder.rb:63:in `call'
+rack (2.0.4) lib/rack/etag.rb:25:in `call'
+rack (2.0.4) lib/rack/conditional_get.rb:25:in `call'
+rack (2.0.4) lib/rack/head.rb:12:in `call'
+rack (2.0.4) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.4) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/cookies.rb:613:in `call'
+activerecord (5.1.4) lib/active_record/migration.rb:556:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+activesupport (5.1.4) lib/active_support/callbacks.rb:97:in `run_callbacks'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.4) lib/rack/method_override.rb:22:in `call'
+rack (2.0.4) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.4) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.11.2) lib/puma/configuration.rb:225:in `call'
+puma (3.11.2) lib/puma/server.rb:624:in `handle_request'
+puma (3.11.2) lib/puma/server.rb:438:in `process_client'
+puma (3.11.2) lib/puma/server.rb:302:in `block in run'
+puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/auth/google_oauth2/callback?code=4/AABpE_rQirdDyOzzSA1rde548YYTfj58wwEeY2x4xzukUyEPLk6jhzvRiniSO0wLnEQ52BCN0_S4u5B4EuMTY0E" for 127.0.0.1 at 2018-03-14 19:03:13 +0530
+(google_oauth2) Callback phase initiated.
+(google_oauth2) Authentication failure! invalid_credentials: OAuth2::Error, invalid_grant: Code was already redeemed.
+{
+  "error" : "invalid_grant",
+  "error_description" : "Code was already redeemed."
+}
+  
+OAuth2::Error (invalid_grant: Code was already redeemed.
+{
+  "error" : "invalid_grant",
+  "error_description" : "Code was already redeemed."
+}):
+  
+oauth2 (0.6.1) lib/oauth2/client.rb:108:in `request'
+oauth2 (0.6.1) lib/oauth2/client.rb:131:in `get_token'
+oauth2 (0.6.1) lib/oauth2/strategy/auth_code.rb:29:in `get_token'
+omniauth-oauth2 (1.0.2) lib/omniauth/strategies/oauth2.rb:87:in `build_access_token'
+omniauth-google-oauth2 (0.2.2) lib/omniauth/strategies/google_oauth2.rb:72:in `custom_build_access_token'
+omniauth-oauth2 (1.0.2) lib/omniauth/strategies/oauth2.rb:62:in `callback_phase'
+omniauth (1.8.1) lib/omniauth/strategy.rb:236:in `callback_call'
+omniauth (1.8.1) lib/omniauth/strategy.rb:188:in `call!'
+omniauth (1.8.1) lib/omniauth/strategy.rb:168:in `call'
+omniauth (1.8.1) lib/omniauth/builder.rb:63:in `call'
+rack (2.0.4) lib/rack/etag.rb:25:in `call'
+rack (2.0.4) lib/rack/conditional_get.rb:25:in `call'
+rack (2.0.4) lib/rack/head.rb:12:in `call'
+rack (2.0.4) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.4) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/cookies.rb:613:in `call'
+activerecord (5.1.4) lib/active_record/migration.rb:556:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+activesupport (5.1.4) lib/active_support/callbacks.rb:97:in `run_callbacks'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.4) lib/rack/method_override.rb:22:in `call'
+rack (2.0.4) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.4) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.11.2) lib/puma/configuration.rb:225:in `call'
+puma (3.11.2) lib/puma/server.rb:624:in `handle_request'
+puma (3.11.2) lib/puma/server.rb:438:in `process_client'
+puma (3.11.2) lib/puma/server.rb:302:in `block in run'
+puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/" for 127.0.0.1 at 2018-03-14 19:03:25 +0530
+Processing by UsersController#index as HTML
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (2.1ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  Rendered users/index.html.erb within layouts/application (6.1ms)
+Completed 200 OK in 100ms (Views: 93.4ms | ActiveRecord: 2.1ms)
+
+
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2018-03-14 19:03:28 +0530
+(google_oauth2) Request phase initiated.
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2018-03-14 19:03:28 +0530
+(google_oauth2) Request phase initiated.
+Started GET "/auth/google_oauth2/callback?code=4/AAA9gbCifjA0kwDBoSMlUlbVInyAFYWv_nO1kP3QFSfTb5eoX7NYeeXyxu-9PcVtLNhPt4-RC5P20Q_tXN8DthM" for 127.0.0.1 at 2018-03-14 19:03:28 +0530
+(google_oauth2) Callback phase initiated.
+Processing by SessionsController#create as HTML
+  Parameters: {"code"=>"4/AAA9gbCifjA0kwDBoSMlUlbVInyAFYWv_nO1kP3QFSfTb5eoX7NYeeXyxu-9PcVtLNhPt4-RC5P20Q_tXN8DthM", "provider"=>"google_oauth2"}
+Completed 500 Internal Server Error in 160ms (ActiveRecord: 0.0ms)
+
+
+  
+NameError (undefined local variable or method `env' for #<SessionsController:0x00007f62056a1b70>):
+  
+app/controllers/sessions_controller.rb:3:in `create'
+Started GET "/" for 127.0.0.1 at 2018-03-14 19:06:36 +0530
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by UsersController#index as HTML
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  Rendered users/index.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 267ms (Views: 256.7ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2018-03-14 19:06:39 +0530
+(google_oauth2) Request phase initiated.
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2018-03-14 19:06:39 +0530
+(google_oauth2) Request phase initiated.
+Started GET "/auth/google_oauth2/callback?code=4/AAAKnvYIrC-F0O07qGETiMzufoHmM7OY96L1hUt-HF-90Gc1Nq2CeuyA81iJ6iKNwPnqrk7DenN0Bv5xLcp8OIY" for 127.0.0.1 at 2018-03-14 19:06:39 +0530
+(google_oauth2) Callback phase initiated.
+Processing by SessionsController#create as HTML
+  Parameters: {"code"=>"4/AAAKnvYIrC-F0O07qGETiMzufoHmM7OY96L1hUt-HF-90Gc1Nq2CeuyA81iJ6iKNwPnqrk7DenN0Bv5xLcp8OIY", "provider"=>"google_oauth2"}
+Completed 500 Internal Server Error in 179ms (ActiveRecord: 0.0ms)
+
+
+  
+NameError (undefined local variable or method `env' for #<SessionsController:0x00007fe4a27fc4f0>):
+  
+app/controllers/sessions_controller.rb:3:in `create'
+Started GET "/auth/google_oauth2/callback?code=4/AAAKnvYIrC-F0O07qGETiMzufoHmM7OY96L1hUt-HF-90Gc1Nq2CeuyA81iJ6iKNwPnqrk7DenN0Bv5xLcp8OIY" for 127.0.0.1 at 2018-03-14 19:08:47 +0530
+(google_oauth2) Callback phase initiated.
+(google_oauth2) Authentication failure! invalid_credentials: OAuth2::Error, invalid_grant: 
+{
+  "error" : "invalid_grant"
+}
+  
+OAuth2::Error (invalid_grant: 
+{
+  "error" : "invalid_grant"
+}):
+  
+oauth2 (0.6.1) lib/oauth2/client.rb:108:in `request'
+oauth2 (0.6.1) lib/oauth2/client.rb:131:in `get_token'
+oauth2 (0.6.1) lib/oauth2/strategy/auth_code.rb:29:in `get_token'
+omniauth-oauth2 (1.0.2) lib/omniauth/strategies/oauth2.rb:87:in `build_access_token'
+omniauth-google-oauth2 (0.2.2) lib/omniauth/strategies/google_oauth2.rb:72:in `custom_build_access_token'
+omniauth-oauth2 (1.0.2) lib/omniauth/strategies/oauth2.rb:62:in `callback_phase'
+omniauth (1.8.1) lib/omniauth/strategy.rb:236:in `callback_call'
+omniauth (1.8.1) lib/omniauth/strategy.rb:188:in `call!'
+omniauth (1.8.1) lib/omniauth/strategy.rb:168:in `call'
+omniauth (1.8.1) lib/omniauth/builder.rb:63:in `call'
+rack (2.0.4) lib/rack/etag.rb:25:in `call'
+rack (2.0.4) lib/rack/conditional_get.rb:25:in `call'
+rack (2.0.4) lib/rack/head.rb:12:in `call'
+rack (2.0.4) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.4) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/cookies.rb:613:in `call'
+activerecord (5.1.4) lib/active_record/migration.rb:556:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+activesupport (5.1.4) lib/active_support/callbacks.rb:97:in `run_callbacks'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.4) lib/rack/method_override.rb:22:in `call'
+rack (2.0.4) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.4) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.11.2) lib/puma/configuration.rb:225:in `call'
+puma (3.11.2) lib/puma/server.rb:624:in `handle_request'
+puma (3.11.2) lib/puma/server.rb:438:in `process_client'
+puma (3.11.2) lib/puma/server.rb:302:in `block in run'
+puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/" for 127.0.0.1 at 2018-03-14 19:09:06 +0530
+Processing by UsersController#index as HTML
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  Rendered users/index.html.erb within layouts/application (8.0ms)
+Completed 200 OK in 104ms (Views: 96.8ms | ActiveRecord: 1.9ms)
+
+
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2018-03-14 19:09:08 +0530
+(google_oauth2) Request phase initiated.
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2018-03-14 19:09:09 +0530
+(google_oauth2) Request phase initiated.
+Started GET "/auth/google_oauth2/callback?code=4/AAAc3zMjCFxTTZbEdQ_44Ql9EyK8HnVyCXsxujV3xbbALdSl1kQ86SoiwHJqtWFGq2x85jbHx2LupzwGh0ucJ1w" for 127.0.0.1 at 2018-03-14 19:09:09 +0530
+(google_oauth2) Callback phase initiated.
+Processing by SessionsController#create as HTML
+  Parameters: {"code"=>"4/AAAc3zMjCFxTTZbEdQ_44Ql9EyK8HnVyCXsxujV3xbbALdSl1kQ86SoiwHJqtWFGq2x85jbHx2LupzwGh0ucJ1w", "provider"=>"google_oauth2"}
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."provider" = ? AND "users"."uid" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["provider", "google_oauth2"], ["uid", "115281478544733932319"], ["LIMIT", 1]]
+Completed 500 Internal Server Error in 3ms (ActiveRecord: 1.0ms)
+
+
+  
+ActiveRecord::StatementInvalid (SQLite3::SQLException: no such column: users.provider: SELECT  "users".* FROM "users" WHERE "users"."provider" = ? AND "users"."uid" = ? ORDER BY "users"."id" ASC LIMIT ?):
+  
+app/models/user.rb:3:in `from_omniauth'
+app/controllers/sessions_controller.rb:3:in `create'
+Started GET "/" for 127.0.0.1 at 2018-03-14 19:10:13 +0530
+Processing by UsersController#index as HTML
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  Rendered users/index.html.erb within layouts/application (3.2ms)
+Completed 200 OK in 46ms (Views: 42.8ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2018-03-14 19:10:16 +0530
+(google_oauth2) Request phase initiated.
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2018-03-14 19:10:16 +0530
+(google_oauth2) Request phase initiated.
+Started GET "/auth/google_oauth2/callback?code=4/AACpsSxgM_b54_KLtgOGCgd5m0H4vSmhibbAybQs6H00Cip-8E61oo0izit0un0Lgvpr5eU28nh-jQ5Fi9YyBIE" for 127.0.0.1 at 2018-03-14 19:10:16 +0530
+(google_oauth2) Callback phase initiated.
+Processing by SessionsController#create as HTML
+  Parameters: {"code"=>"4/AACpsSxgM_b54_KLtgOGCgd5m0H4vSmhibbAybQs6H00Cip-8E61oo0izit0un0Lgvpr5eU28nh-jQ5Fi9YyBIE", "provider"=>"google_oauth2"}
+Completed 500 Internal Server Error in 140ms (ActiveRecord: 0.0ms)
+
+
+  
+NameError (undefined local variable or method `env' for #<SessionsController:0x00007fe4a0060b08>):
+  
+app/controllers/sessions_controller.rb:3:in `create'
+Started GET "/" for 127.0.0.1 at 2018-03-14 19:20:00 +0530
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by UsersController#index as HTML
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  Rendered users/index.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 227ms (Views: 217.6ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2018-03-14 19:20:03 +0530
+(google_oauth2) Request phase initiated.
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2018-03-14 19:20:05 +0530
+(google_oauth2) Request phase initiated.
+Started GET "/auth/google_oauth2/callback?code=4/AABqPeaBEvopyU7UhMM74hJe6Wz0wrFAtohVIZ3WmoH9EIEsFc3o47xOsQJ9C4qwy87-cdJrMnb1sqp8Bj6IHNk" for 127.0.0.1 at 2018-03-14 19:20:05 +0530
+(google_oauth2) Callback phase initiated.
+Processing by SessionsController#create as HTML
+  Parameters: {"code"=>"4/AABqPeaBEvopyU7UhMM74hJe6Wz0wrFAtohVIZ3WmoH9EIEsFc3o47xOsQJ9C4qwy87-cdJrMnb1sqp8Bj6IHNk", "provider"=>"google_oauth2"}
+Completed 500 Internal Server Error in 163ms (ActiveRecord: 0.0ms)
+
+
+  
+NameError (undefined local variable or method `env' for #<SessionsController:0x00007f2865882db0>):
+  
+app/controllers/sessions_controller.rb:3:in `create'
+Started POST "/__web_console/repl_sessions/2ebd7b3ba7e908f75342607daa4418c9/trace" for 127.0.0.1 at 2018-03-14 19:20:54 +0530
+Started POST "/__web_console/repl_sessions/2ebd7b3ba7e908f75342607daa4418c9/trace" for 127.0.0.1 at 2018-03-14 19:20:55 +0530
+Started POST "/__web_console/repl_sessions/2ebd7b3ba7e908f75342607daa4418c9/trace" for 127.0.0.1 at 2018-03-14 19:20:56 +0530
+Started POST "/__web_console/repl_sessions/2ebd7b3ba7e908f75342607daa4418c9/trace" for 127.0.0.1 at 2018-03-14 19:20:56 +0530
+Started POST "/__web_console/repl_sessions/2ebd7b3ba7e908f75342607daa4418c9/trace" for 127.0.0.1 at 2018-03-14 19:20:56 +0530
+Started POST "/__web_console/repl_sessions/2ebd7b3ba7e908f75342607daa4418c9/trace" for 127.0.0.1 at 2018-03-14 19:20:56 +0530
+Started POST "/__web_console/repl_sessions/2ebd7b3ba7e908f75342607daa4418c9/trace" for 127.0.0.1 at 2018-03-14 19:20:56 +0530
+Started POST "/__web_console/repl_sessions/2ebd7b3ba7e908f75342607daa4418c9/trace" for 127.0.0.1 at 2018-03-14 19:20:57 +0530
+Started POST "/__web_console/repl_sessions/2ebd7b3ba7e908f75342607daa4418c9/trace" for 127.0.0.1 at 2018-03-14 19:20:57 +0530
+Started POST "/__web_console/repl_sessions/2ebd7b3ba7e908f75342607daa4418c9/trace" for 127.0.0.1 at 2018-03-14 19:20:57 +0530
+Started POST "/__web_console/repl_sessions/2ebd7b3ba7e908f75342607daa4418c9/trace" for 127.0.0.1 at 2018-03-14 19:20:57 +0530
+Started POST "/__web_console/repl_sessions/2ebd7b3ba7e908f75342607daa4418c9/trace" for 127.0.0.1 at 2018-03-14 19:20:58 +0530
+Started POST "/__web_console/repl_sessions/2ebd7b3ba7e908f75342607daa4418c9/trace" for 127.0.0.1 at 2018-03-14 19:20:58 +0530
+Started GET "/" for 127.0.0.1 at 2018-03-14 19:21:55 +0530
+Processing by UsersController#index as HTML
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  Rendered users/index.html.erb within layouts/application (3.2ms)
+Completed 200 OK in 101ms (Views: 96.9ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2018-03-14 19:21:58 +0530
+(google_oauth2) Request phase initiated.
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2018-03-14 19:22:22 +0530
+(google_oauth2) Request phase initiated.
+Started GET "/auth/google_oauth2/callback?code=4/AACkGHUMuYg45QpoDpPcCASgOS7O06YBVJ6UY4hN15yuO4Kk2rEfSwVEV7Y8IWpU7FyTtzzQ9cRMp8yGr1u94os" for 127.0.0.1 at 2018-03-14 19:22:22 +0530
+(google_oauth2) Callback phase initiated.
+Processing by SessionsController#create as HTML
+  Parameters: {"code"=>"4/AACkGHUMuYg45QpoDpPcCASgOS7O06YBVJ6UY4hN15yuO4Kk2rEfSwVEV7Y8IWpU7FyTtzzQ9cRMp8yGr1u94os", "provider"=>"google_oauth2"}
+Completed 500 Internal Server Error in 199ms (ActiveRecord: 0.0ms)
+
+
+  
+NameError (undefined local variable or method `env' for #<SessionsController:0x00007f28653d8968>):
+  
+app/controllers/sessions_controller.rb:3:in `create'
+Started GET "/" for 127.0.0.1 at 2018-03-14 19:27:00 +0530
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by UsersController#index as HTML
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  Rendered users/index.html.erb within layouts/application (2.5ms)
+Completed 200 OK in 206ms (Views: 196.1ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2018-03-14 19:27:02 +0530
+(google_oauth2) Request phase initiated.
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2018-03-14 19:27:06 +0530
+(google_oauth2) Request phase initiated.
+Started GET "/auth/google_oauth2/callback?code=4/AABjwltbN0XEPAPmBTaHSFzmzDv257ACn_CvWgtlKBOV_USt0cgedYLxzJgIpgcGdzwEkkpqKhTMPsrFg3phnS4" for 127.0.0.1 at 2018-03-14 19:27:07 +0530
+(google_oauth2) Callback phase initiated.
+Processing by SessionsController#create as HTML
+  Parameters: {"code"=>"4/AABjwltbN0XEPAPmBTaHSFzmzDv257ACn_CvWgtlKBOV_USt0cgedYLxzJgIpgcGdzwEkkpqKhTMPsrFg3phnS4", "provider"=>"google_oauth2"}
+  [1m[36mUser Load (1.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."provider" = ? AND "users"."uid" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["provider", "google_oauth2"], ["uid", "115281478544733932319"], ["LIMIT", 1]]
+Completed 500 Internal Server Error in 6ms (ActiveRecord: 2.3ms)
+
+
+  
+ActiveRecord::StatementInvalid (SQLite3::SQLException: no such column: users.provider: SELECT  "users".* FROM "users" WHERE "users"."provider" = ? AND "users"."uid" = ? ORDER BY "users"."id" ASC LIMIT ?):
+  
+app/models/user.rb:3:in `from_omniauth'
+app/controllers/sessions_controller.rb:3:in `create'
+Started GET "/" for 127.0.0.1 at 2018-03-14 19:33:07 +0530
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by UsersController#index as HTML
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  Rendered users/index.html.erb within layouts/application (4.1ms)
+Completed 200 OK in 263ms (Views: 249.5ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2018-03-14 19:33:09 +0530
+(google_oauth2) Request phase initiated.
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2018-03-14 19:33:10 +0530
+(google_oauth2) Request phase initiated.
+Started GET "/auth/google_oauth2/callback?code=4/AADNkAtpUtLBXLXrFSWmlp9vpaTgpsI1iECctFUB4OHcgt2DUMx2EXXQNe_Mg7ETEDUAmhsQBWcs7461k_Y9h0o" for 127.0.0.1 at 2018-03-14 19:33:11 +0530
+(google_oauth2) Callback phase initiated.
+Processing by SessionsController#create as HTML
+  Parameters: {"code"=>"4/AADNkAtpUtLBXLXrFSWmlp9vpaTgpsI1iECctFUB4OHcgt2DUMx2EXXQNe_Mg7ETEDUAmhsQBWcs7461k_Y9h0o", "provider"=>"google_oauth2"}
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."provider" = ? AND "users"."uid" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["provider", "google_oauth2"], ["uid", "115281478544733932319"], ["LIMIT", 1]]
+Completed 500 Internal Server Error in 3ms (ActiveRecord: 1.1ms)
+
+
+  
+ActiveRecord::StatementInvalid (SQLite3::SQLException: no such column: users.provider: SELECT  "users".* FROM "users" WHERE "users"."provider" = ? AND "users"."uid" = ? ORDER BY "users"."id" ASC LIMIT ?):
+  
+app/models/user.rb:3:in `from_omniauth'
+app/controllers/sessions_controller.rb:3:in `create'
+Started GET "/" for 127.0.0.1 at 2018-03-14 19:37:35 +0530
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by UsersController#index as HTML
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  Rendered users/index.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 197ms (Views: 183.4ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2018-03-14 19:37:39 +0530
+(google_oauth2) Request phase initiated.
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2018-03-14 19:37:41 +0530
+(google_oauth2) Request phase initiated.
+Started GET "/auth/google_oauth2/callback?code=4/AAC3SDMRUgotNVvTB5ORheRDsSn7Sci8HWZC_Y5F916XKTnIgGfFYJ_0vN4-cCoyRILT2YHmGj-tWX2v1gwGvKM" for 127.0.0.1 at 2018-03-14 19:37:41 +0530
+(google_oauth2) Callback phase initiated.
+Processing by SessionsController#create as HTML
+  Parameters: {"code"=>"4/AAC3SDMRUgotNVvTB5ORheRDsSn7Sci8HWZC_Y5F916XKTnIgGfFYJ_0vN4-cCoyRILT2YHmGj-tWX2v1gwGvKM", "provider"=>"google_oauth2"}
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."provider" = ? AND "users"."uid" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["provider", "google_oauth2"], ["uid", "115281478544733932319"], ["LIMIT", 1]]
+Completed 500 Internal Server Error in 2ms (ActiveRecord: 0.8ms)
+
+
+  
+ActiveRecord::StatementInvalid (SQLite3::SQLException: no such column: users.provider: SELECT  "users".* FROM "users" WHERE "users"."provider" = ? AND "users"."uid" = ? ORDER BY "users"."id" ASC LIMIT ?):
+  
+app/models/user.rb:3:in `from_omniauth'
+app/controllers/sessions_controller.rb:3:in `create'
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2018-03-14 19:38:13 +0530
+(google_oauth2) Request phase initiated.
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2018-03-14 19:38:13 +0530
+(google_oauth2) Request phase initiated.
+Started GET "/auth/google_oauth2/callback?code=4/AAAS74GPG76g2fgdkMklJAa0HR27zDbxbGRns80_ieWuaOzfVwLFZi8lsFFEQSkkgZsidoWaK3nGPW1ERyFmx1g" for 127.0.0.1 at 2018-03-14 19:38:13 +0530
+(google_oauth2) Callback phase initiated.
+Processing by SessionsController#create as HTML
+  Parameters: {"code"=>"4/AAAS74GPG76g2fgdkMklJAa0HR27zDbxbGRns80_ieWuaOzfVwLFZi8lsFFEQSkkgZsidoWaK3nGPW1ERyFmx1g", "provider"=>"google_oauth2"}
+  [1m[36mUser Load (0.7ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."provider" = ? AND "users"."uid" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["provider", "google_oauth2"], ["uid", "115281478544733932319"], ["LIMIT", 1]]
+Completed 500 Internal Server Error in 2ms (ActiveRecord: 0.7ms)
+
+
+  
+ActiveRecord::StatementInvalid (SQLite3::SQLException: no such column: users.provider: SELECT  "users".* FROM "users" WHERE "users"."provider" = ? AND "users"."uid" = ? ORDER BY "users"."id" ASC LIMIT ?):
+  
+app/models/user.rb:3:in `from_omniauth'
+app/controllers/sessions_controller.rb:3:in `create'
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ?[0m  [["key", "environment"]]
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ?[0m  [["key", "environment"]]
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ?[0m  [["key", "environment"]]
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (103.1ms)[0m  [1m[35mCREATE TABLE "schema_migrations" ("version" varchar NOT NULL PRIMARY KEY)[0m
+  [1m[35m (130.7ms)[0m  [1m[35mCREATE TABLE "ar_internal_metadata" ("key" varchar NOT NULL PRIMARY KEY, "value" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Migrating to CreateUsers (20180210144315)
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.4ms)[0m  [1m[35mCREATE TABLE "users" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar, "email" varchar, "bio" text, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
+  [1m[35mSQL (0.2ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20180210144315"]]
+  [1m[35m (148.1ms)[0m  [1m[36mcommit transaction[0m
+Migrating to CreatePosts (20180210171337)
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.7ms)[0m  [1m[35mCREATE TABLE "posts" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
+  [1m[35mSQL (0.3ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20180210171337"]]
+  [1m[35m (148.9ms)[0m  [1m[36mcommit transaction[0m
+  [1m[36mActiveRecord::InternalMetadata Load (0.4ms)[0m  [1m[34mSELECT  "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ? LIMIT ?[0m  [["key", "environment"], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.3ms)[0m  [1m[32mINSERT INTO "ar_internal_metadata" ("key", "value", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["key", "environment"], ["value", "development"], ["created_at", "2018-03-14 14:09:45.278723"], ["updated_at", "2018-03-14 14:09:45.278723"]]
+  [1m[35m (134.6ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Started GET "/" for 127.0.0.1 at 2018-03-14 19:40:07 +0530
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by UsersController#index as HTML
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  Rendered users/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 241ms (Views: 232.1ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2018-03-14 19:40:10 +0530
+(google_oauth2) Request phase initiated.
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2018-03-14 19:40:10 +0530
+(google_oauth2) Request phase initiated.
+Started GET "/auth/google_oauth2/callback?code=4/AADO4zcJjynEmjCCIxcN1q-ybPTpmFw1k_5jAJqrdybqC4GBvxlc63ZWHjjFROcAOoYIWF5qZ4h5XveuZMYVo6I" for 127.0.0.1 at 2018-03-14 19:40:10 +0530
+(google_oauth2) Callback phase initiated.
+Processing by SessionsController#create as HTML
+  Parameters: {"code"=>"4/AADO4zcJjynEmjCCIxcN1q-ybPTpmFw1k_5jAJqrdybqC4GBvxlc63ZWHjjFROcAOoYIWF5qZ4h5XveuZMYVo6I", "provider"=>"google_oauth2"}
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."provider" = ? AND "users"."uid" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["provider", "google_oauth2"], ["uid", "115281478544733932319"], ["LIMIT", 1]]
+Completed 500 Internal Server Error in 3ms (ActiveRecord: 1.1ms)
+
+
+  
+ActiveRecord::StatementInvalid (SQLite3::SQLException: no such column: users.provider: SELECT  "users".* FROM "users" WHERE "users"."provider" = ? AND "users"."uid" = ? ORDER BY "users"."id" ASC LIMIT ?):
+  
+app/models/user.rb:3:in `from_omniauth'
+app/controllers/sessions_controller.rb:3:in `create'
+Started GET "/users/new" for 127.0.0.1 at 2018-03-14 19:40:20 +0530
+Processing by UsersController#new as HTML
+  Rendering users/new.html.erb within layouts/application
+  Rendered users/_form.html.erb (16.9ms)
+  Rendered users/new.html.erb within layouts/application (18.5ms)
+Completed 200 OK in 79ms (Views: 65.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2018-03-14 19:40:23 +0530
+(google_oauth2) Request phase initiated.
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2018-03-14 19:40:23 +0530
+(google_oauth2) Request phase initiated.
+Started GET "/auth/google_oauth2/callback?code=4/AAC02FfwTrLULECxkgJ3lrLgQhBmi6gMQoh2qFJ8dSzSyzU0HAMtO-H9XK0rfj1XRpxV42n8LOTUwKHyoURlkj0" for 127.0.0.1 at 2018-03-14 19:40:24 +0530
+(google_oauth2) Callback phase initiated.
+Processing by SessionsController#create as HTML
+  Parameters: {"code"=>"4/AAC02FfwTrLULECxkgJ3lrLgQhBmi6gMQoh2qFJ8dSzSyzU0HAMtO-H9XK0rfj1XRpxV42n8LOTUwKHyoURlkj0", "provider"=>"google_oauth2"}
+  [1m[36mUser Load (0.7ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."provider" = ? AND "users"."uid" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["provider", "google_oauth2"], ["uid", "115281478544733932319"], ["LIMIT", 1]]
+Completed 500 Internal Server Error in 2ms (ActiveRecord: 0.7ms)
+
+
+  
+ActiveRecord::StatementInvalid (SQLite3::SQLException: no such column: users.provider: SELECT  "users".* FROM "users" WHERE "users"."provider" = ? AND "users"."uid" = ? ORDER BY "users"."id" ASC LIMIT ?):
+  
+app/models/user.rb:3:in `from_omniauth'
+app/controllers/sessions_controller.rb:3:in `create'
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Migrating to CreateUsers (20180314142753)
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.2ms)[0m  [1m[35mCREATE TABLE "users" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "provider" varchar, "uid" varchar, "name" varchar, "oauth_token" varchar, "oauth_expires_at" datetime, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ?[0m  [["key", "environment"]]
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ?[0m  [["key", "environment"]]
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ?[0m  [["key", "environment"]]
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (131.0ms)[0m  [1m[35mCREATE TABLE "schema_migrations" ("version" varchar NOT NULL PRIMARY KEY)[0m
+  [1m[35m (130.1ms)[0m  [1m[35mCREATE TABLE "ar_internal_metadata" ("key" varchar NOT NULL PRIMARY KEY, "value" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Migrating to CreatePosts (20180210171337)
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (1.9ms)[0m  [1m[35mCREATE TABLE "posts" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
+  [1m[35mSQL (0.4ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20180210171337"]]
+  [1m[35m (127.1ms)[0m  [1m[36mcommit transaction[0m
+Migrating to CreateUsers (20180314142753)
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.7ms)[0m  [1m[35mCREATE TABLE "users" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "provider" varchar, "uid" varchar, "name" varchar, "oauth_token" varchar, "oauth_expires_at" datetime, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
+  [1m[35mSQL (0.3ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20180314142753"]]
+  [1m[35m (149.6ms)[0m  [1m[36mcommit transaction[0m
+  [1m[36mActiveRecord::InternalMetadata Load (0.2ms)[0m  [1m[34mSELECT  "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ? LIMIT ?[0m  [["key", "environment"], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.4ms)[0m  [1m[32mINSERT INTO "ar_internal_metadata" ("key", "value", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["key", "environment"], ["value", "development"], ["created_at", "2018-03-14 14:28:56.124962"], ["updated_at", "2018-03-14 14:28:56.124962"]]
+  [1m[35m (112.2ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Started GET "/" for 127.0.0.1 at 2018-03-14 20:02:48 +0530
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by UsersController#index as HTML
+Completed 500 Internal Server Error in 40ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (/home/nimisha/LinX_ror/app/models/user.rb:8: syntax error, unexpected tSTRING_DEND, expecting ']'
+h["credentials"]["expires_at"})
+                              ^):
+  
+app/models/user.rb:8: syntax error, unexpected tSTRING_DEND, expecting ']'
+app/controllers/users_controller.rb:7:in `index'
+Started GET "/" for 127.0.0.1 at 2018-03-14 20:03:07 +0530
+Processing by UsersController#index as HTML
+Completed 500 Internal Server Error in 1ms
+
+
+  
+SyntaxError (/home/nimisha/LinX_ror/app/models/user.rb:8: syntax error, unexpected tSTRING_DEND, expecting ')'
+["credentials"]["expires_at"]})
+                              ^):
+  
+app/models/user.rb:8: syntax error, unexpected tSTRING_DEND, expecting ')'
+app/controllers/users_controller.rb:7:in `index'
+Started GET "/" for 127.0.0.1 at 2018-03-14 20:03:27 +0530
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by UsersController#index as HTML
+Completed 500 Internal Server Error in 9ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (/home/nimisha/LinX_ror/app/models/user.rb:8: syntax error, unexpected tSTRING_DEND, expecting ')'
+["credentials"]["expires_at"]})
+                              ^):
+  
+app/models/user.rb:8: syntax error, unexpected tSTRING_DEND, expecting ')'
+app/controllers/users_controller.rb:7:in `index'
+Started GET "/" for 127.0.0.1 at 2018-03-14 20:03:55 +0530
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by UsersController#index as HTML
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  Rendered users/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 1006ms (Views: 973.2ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2018-03-14 20:04:00 +0530
+(google_oauth2) Request phase initiated.
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2018-03-14 20:04:00 +0530
+(google_oauth2) Request phase initiated.
+Started GET "/auth/google_oauth2/callback?code=4/AABYGi69UihV1fKlx-f19OHnhdUbqVizRVzdvlGYd0G4hkIzJ5GkAS6dV3olSyoQsU9FkHAeVEHVlE7RunvcZUU" for 127.0.0.1 at 2018-03-14 20:04:01 +0530
+(google_oauth2) Callback phase initiated.
+Processing by SessionsController#create as HTML
+  Parameters: {"code"=>"4/AABYGi69UihV1fKlx-f19OHnhdUbqVizRVzdvlGYd0G4hkIzJ5GkAS6dV3olSyoQsU9FkHAeVEHVlE7RunvcZUU", "provider"=>"google_oauth2"}
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."provider" = ? AND "users"."uid" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["provider", "google_oauth2"], ["uid", "115281478544733932319"], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (1.1ms)[0m  [1m[32mINSERT INTO "users" ("provider", "uid", "name", "oauth_token", "oauth_expires_at", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["provider", "google_oauth2"], ["uid", "115281478544733932319"], ["name", "Nimisha Garg"], ["oauth_token", "ya29.Glt-BfweNbfCUNuRsxDqRd0yTYIMojz-ZhFN8HoLEBNYDqEh3H-iC_vdXBPHm-XXM0MHCe2X0apoCAWwNStxFRJscM2JxEBz4Z-L13RiF-DgJdhMIOY9o23zQ1t0"], ["oauth_expires_at", "2018-03-14 15:34:01"], ["created_at", "2018-03-14 14:34:02.806914"], ["updated_at", "2018-03-14 14:34:02.806914"]]
+  [1m[35m (153.1ms)[0m  [1m[36mcommit transaction[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 168ms (ActiveRecord: 155.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-14 20:04:02 +0530
+Processing by UsersController#index as HTML
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  Rendered users/index.html.erb within layouts/application (36.3ms)
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+Completed 200 OK in 83ms (Views: 81.0ms | ActiveRecord: 0.9ms)
+
+
+Started GET "/signout" for 127.0.0.1 at 2018-03-14 20:04:15 +0530
+Processing by SessionsController#destroy as HTML
+Redirected to http://localhost:3000/
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-14 20:04:15 +0530
+Processing by UsersController#index as HTML
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (1.1ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  Rendered users/index.html.erb within layouts/application (3.5ms)
+Completed 200 OK in 63ms (Views: 60.1ms | ActiveRecord: 1.1ms)
+
+
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2018-03-14 20:04:23 +0530
+(google_oauth2) Request phase initiated.
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2018-03-14 20:04:23 +0530
+(google_oauth2) Request phase initiated.
+Started GET "/auth/google_oauth2/callback?code=4/AACNs5Wh0BbfgSx18dRu_16gV-6LBwsiutPFW_CompfnCHEWi9azVbGfs7YckB_iGrDIGJgNII5vrg2wt4nbE3s" for 127.0.0.1 at 2018-03-14 20:04:23 +0530
+(google_oauth2) Callback phase initiated.
+Processing by SessionsController#create as HTML
+  Parameters: {"code"=>"4/AACNs5Wh0BbfgSx18dRu_16gV-6LBwsiutPFW_CompfnCHEWi9azVbGfs7YckB_iGrDIGJgNII5vrg2wt4nbE3s", "provider"=>"google_oauth2"}
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."provider" = ? AND "users"."uid" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["provider", "google_oauth2"], ["uid", "115281478544733932319"], ["LIMIT", 1]]
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (1.1ms)[0m  [1m[33mUPDATE "users" SET "oauth_token" = ?, "oauth_expires_at" = ?, "updated_at" = ? WHERE "users"."id" = ?[0m  [["oauth_token", "ya29.Glt-BTYYjcyw0OIn5ViZK3WuvTfonjPVCdkTiRY_X_G2YE1pIPHxiugauputzy6zQrM9_uC8b0xIpN6pxjgKirQF3HDE55e_7hZaO3qjFmUTFajsE_uAyOVM_hZ6"], ["oauth_expires_at", "2018-03-14 15:34:23"], ["updated_at", "2018-03-14 14:34:24.320086"], ["id", 1]]
+  [1m[35m (142.7ms)[0m  [1m[36mcommit transaction[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 148ms (ActiveRecord: 144.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-14 20:04:24 +0530
+Processing by UsersController#index as HTML
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  Rendered users/index.html.erb within layouts/application (2.1ms)
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+Completed 200 OK in 58ms (Views: 56.3ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/users/new" for 127.0.0.1 at 2018-03-14 20:05:34 +0530
+Processing by UsersController#new as HTML
+  Rendering users/new.html.erb within layouts/application
+  Rendered users/_form.html.erb (305.9ms)
+  Rendered users/new.html.erb within layouts/application (311.3ms)
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+Completed 200 OK in 518ms (Views: 512.2ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/users" for 127.0.0.1 at 2018-03-14 20:05:38 +0530
+Processing by UsersController#index as HTML
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  Rendered users/index.html.erb within layouts/application (2.8ms)
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+Completed 200 OK in 83ms (Views: 66.0ms | ActiveRecord: 0.4ms)
+
+
+Started DELETE "/users/1" for 127.0.0.1 at 2018-03-14 20:05:43 +0530
+Processing by UsersController#destroy as HTML
+  Parameters: {"authenticity_token"=>"JZTDJmisGmX3xboBXUXTfvBktB9+1o5hYdeUr+ZgbR6EBo8cVRb4TSNGfer9s35HipLUPE4pQJds6RB+BoCjrw==", "id"=>"1"}
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (1.1ms)[0m  [1m[31mDELETE FROM "users" WHERE "users"."id" = ?[0m  [["id", 1]]
+  [1m[35m (117.6ms)[0m  [1m[36mcommit transaction[0m
+Redirected to http://localhost:3000/users
+Completed 302 Found in 123ms (ActiveRecord: 119.1ms)
+
+
+Started GET "/users" for 127.0.0.1 at 2018-03-14 20:05:43 +0530
+Processing by UsersController#index as HTML
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  Rendered users/index.html.erb within layouts/application (1.1ms)
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+Completed 500 Internal Server Error in 74ms (ActiveRecord: 0.3ms)
+
+
+  
+ActiveRecord::RecordNotFound (Couldn't find User with 'id'=1):
+  
+app/controllers/application_controller.rb:6:in `current_user'
+app/views/layouts/application.html.erb:53:in `_app_views_layouts_application_html_erb___3570432616060060517_69829258291780'
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ?[0m  [["key", "environment"]]
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ?[0m  [["key", "environment"]]
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ?[0m  [["key", "environment"]]
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (138.2ms)[0m  [1m[35mCREATE TABLE "schema_migrations" ("version" varchar NOT NULL PRIMARY KEY)[0m
+  [1m[35m (128.1ms)[0m  [1m[35mCREATE TABLE "ar_internal_metadata" ("key" varchar NOT NULL PRIMARY KEY, "value" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Migrating to CreatePosts (20180210171337)
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (1.8ms)[0m  [1m[35mCREATE TABLE "posts" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
+  [1m[35mSQL (0.3ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20180210171337"]]
+  [1m[35m (123.9ms)[0m  [1m[36mcommit transaction[0m
+Migrating to CreateUsers (20180314142753)
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.7ms)[0m  [1m[35mCREATE TABLE "users" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "provider" varchar, "uid" varchar, "name" varchar, "oauth_token" varchar, "oauth_expires_at" datetime, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
+  [1m[35mSQL (0.3ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20180314142753"]]
+  [1m[35m (140.8ms)[0m  [1m[36mcommit transaction[0m
+  [1m[36mActiveRecord::InternalMetadata Load (0.3ms)[0m  [1m[34mSELECT  "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ? LIMIT ?[0m  [["key", "environment"], ["LIMIT", 1]]
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.5ms)[0m  [1m[32mINSERT INTO "ar_internal_metadata" ("key", "value", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["key", "environment"], ["value", "development"], ["created_at", "2018-03-14 14:36:25.623279"], ["updated_at", "2018-03-14 14:36:25.623279"]]
+  [1m[35m (127.3ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Started GET "/" for 127.0.0.1 at 2018-03-14 20:06:44 +0530
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by UsersController#index as HTML
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  Rendered users/index.html.erb within layouts/application (7.0ms)
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+Completed 500 Internal Server Error in 589ms (ActiveRecord: 1.2ms)
+
+
+  
+ActiveRecord::RecordNotFound (Couldn't find User with 'id'=1):
+  
+app/controllers/application_controller.rb:6:in `current_user'
+app/views/layouts/application.html.erb:53:in `_app_views_layouts_application_html_erb___258020634069246227_46980567863060'
+Started GET "/" for 127.0.0.1 at 2018-03-14 20:09:40 +0530
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/nimisha/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/railties-5.1.4/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/nimisha/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/railties-5.1.4/lib/rails/templates/rails/welcome/index.html.erb (2.6ms)
+Completed 200 OK in 42ms (Views: 6.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-14 20:12:58 +0530
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by UsersController#index as HTML
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  Rendered users/index.html.erb within layouts/application (12.9ms)
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+Completed 500 Internal Server Error in 1895ms (ActiveRecord: 1.2ms)
+
+
+  
+ActiveRecord::RecordNotFound (Couldn't find User with 'id'=1):
+  
+app/controllers/application_controller.rb:6:in `current_user'
+app/views/layouts/application.html.erb:53:in `_app_views_layouts_application_html_erb__1405379599604992863_70165510322880'
+Started GET "/" for 127.0.0.1 at 2018-03-14 20:13:07 +0530
+Processing by UsersController#index as HTML
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  Rendered users/index.html.erb within layouts/application (4.2ms)
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+Completed 500 Internal Server Error in 71ms (ActiveRecord: 1.1ms)
+
+
+  
+ActiveRecord::RecordNotFound (Couldn't find User with 'id'=1):
+  
+app/controllers/application_controller.rb:6:in `current_user'
+app/views/layouts/application.html.erb:53:in `_app_views_layouts_application_html_erb__1405379599604992863_70165524750820'
+Started GET "/" for 127.0.0.1 at 2018-03-14 20:15:40 +0530
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by UsersController#index as HTML
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  Rendered users/index.html.erb within layouts/application (9.1ms)
+Completed 500 Internal Server Error in 1068ms (ActiveRecord: 0.6ms)
+
+
+  
+ActionView::Template::Error (undefined local variable or method `current_user' for #<#<Class:0x00007f8000a16ff8>:0x000055d5b24d09f8>
+Did you mean?  current_page?):
+    50:     <%= yield %>
+    51:   </div>
+    52:   <div>
+    53:       <% if current_user %>
+    54:         Signed in as <strong><%= current_user.name %></strong>!
+    55:         <%= link_to "Sign out", signout_path, id: "sign_out" %>
+    56:       <% else %>
+  
+app/views/layouts/application.html.erb:53:in `_app_views_layouts_application_html_erb__1273571179995083130_47188153845580'
+Started GET "/" for 127.0.0.1 at 2018-03-14 20:17:58 +0530
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by UsersController#index as HTML
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  Rendered users/index.html.erb within layouts/application (8.9ms)
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+Completed 500 Internal Server Error in 984ms (ActiveRecord: 1.1ms)
+
+
+  
+ActiveRecord::RecordNotFound (Couldn't find User with 'id'=1):
+  
+app/controllers/application_controller.rb:6:in `current_user'
+app/views/layouts/application.html.erb:53:in `_app_views_layouts_application_html_erb__2094379652350404100_47270101422180'
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2018-03-14 20:19:20 +0530
+(google_oauth2) Request phase initiated.
+Started GET "/auth/google_oauth2/callback?code=4/AABzNPxu008EuK1O6wZyMMaHqzM9xSZnDseF_-x844I6pgG4qhaMagpsP4LpUTVbC2QqdmjfzOzjJwKCdIkcV20" for 127.0.0.1 at 2018-03-14 20:19:21 +0530
+(google_oauth2) Callback phase initiated.
+Processing by SessionsController#create as HTML
+  Parameters: {"code"=>"4/AABzNPxu008EuK1O6wZyMMaHqzM9xSZnDseF_-x844I6pgG4qhaMagpsP4LpUTVbC2QqdmjfzOzjJwKCdIkcV20", "provider"=>"google_oauth2"}
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."provider" = ? AND "users"."uid" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["provider", "google_oauth2"], ["uid", "115281478544733932319"], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.8ms)[0m  [1m[32mINSERT INTO "users" ("provider", "uid", "name", "oauth_token", "oauth_expires_at", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["provider", "google_oauth2"], ["uid", "115281478544733932319"], ["name", "Nimisha Garg"], ["oauth_token", "ya29.Glt-BTOpJpd-X_o-CJDD4yk5vl2I_Xwf1oKieLVPL0U0Ebi4ZodAKsfbodeoHRMZHn2nsG_T8ikFmInLQjIYLtoxyV--a1UsypuB-dkaCCTL16sIwklvo2AEbsM_"], ["oauth_expires_at", "2018-03-14 15:49:21"], ["created_at", "2018-03-14 14:49:23.173245"], ["updated_at", "2018-03-14 14:49:23.173245"]]
+  [1m[35m (132.2ms)[0m  [1m[36mcommit transaction[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 155ms (ActiveRecord: 134.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-14 20:19:23 +0530
+Processing by UsersController#index as HTML
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  Rendered users/index.html.erb within layouts/application (10.6ms)
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+Completed 200 OK in 65ms (Views: 63.0ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/signout" for 127.0.0.1 at 2018-03-14 20:19:31 +0530
+Processing by SessionsController#destroy as HTML
+Redirected to http://localhost:3000/
+Completed 302 Found in 29ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-14 20:19:31 +0530
+Processing by UsersController#index as HTML
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  Rendered users/index.html.erb within layouts/application (2.6ms)
+Completed 200 OK in 62ms (Views: 59.9ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/users/new" for 127.0.0.1 at 2018-03-14 20:19:33 +0530
+Processing by UsersController#new as HTML
+  Rendering users/new.html.erb within layouts/application
+  Rendered users/_form.html.erb (334.8ms)
+  Rendered users/new.html.erb within layouts/application (340.0ms)
+Completed 200 OK in 458ms (Views: 443.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2018-03-14 20:19:38 +0530
+(google_oauth2) Request phase initiated.
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2018-03-14 20:19:38 +0530
+(google_oauth2) Request phase initiated.
+Started GET "/auth/google_oauth2/callback?code=4/AABTLsuZ46u7dW7LgvCbVPG1d6p6_lEdNPOY8NR6OTlN5ikoK1sEnHBZlW6W2THw_B0g5SszqQFeXtizZoxpUMg" for 127.0.0.1 at 2018-03-14 20:19:39 +0530
+(google_oauth2) Callback phase initiated.
+Processing by SessionsController#create as HTML
+  Parameters: {"code"=>"4/AABTLsuZ46u7dW7LgvCbVPG1d6p6_lEdNPOY8NR6OTlN5ikoK1sEnHBZlW6W2THw_B0g5SszqQFeXtizZoxpUMg", "provider"=>"google_oauth2"}
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."provider" = ? AND "users"."uid" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["provider", "google_oauth2"], ["uid", "115281478544733932319"], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (2.5ms)[0m  [1m[33mUPDATE "users" SET "oauth_token" = ?, "oauth_expires_at" = ?, "updated_at" = ? WHERE "users"."id" = ?[0m  [["oauth_token", "ya29.Glt-BTGaeUisMUW5zM-ulfyWzjVcfBx1h7X8GiUUdAVgwYodCvJn7K2XrhXir_Jqb9ZQi-x2abFNSUhrXjRqi1UcIugwxbHc9mo1MytqEyHOIr-lYC2659Mdsrh2"], ["oauth_expires_at", "2018-03-14 15:49:38"], ["updated_at", "2018-03-14 14:49:40.356719"], ["id", 1]]
+  [1m[35m (124.4ms)[0m  [1m[36mcommit transaction[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 133ms (ActiveRecord: 127.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-14 20:19:40 +0530
+Processing by UsersController#index as HTML
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  Rendered users/index.html.erb within layouts/application (4.1ms)
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+Completed 200 OK in 66ms (Views: 64.9ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/signout" for 127.0.0.1 at 2018-03-14 20:19:50 +0530
+Processing by SessionsController#destroy as HTML
+Redirected to http://localhost:3000/
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-14 20:19:50 +0530
+Processing by UsersController#index as HTML
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  Rendered users/index.html.erb within layouts/application (2.6ms)
+Completed 200 OK in 64ms (Views: 62.1ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/users/new" for 127.0.0.1 at 2018-03-14 20:19:54 +0530
+Processing by UsersController#new as HTML
+  Rendering users/new.html.erb within layouts/application
+  Rendered users/_form.html.erb (2.6ms)
+  Rendered users/new.html.erb within layouts/application (3.9ms)
+Completed 200 OK in 81ms (Views: 80.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2018-03-14 20:19:59 +0530
+(google_oauth2) Request phase initiated.
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2018-03-14 20:19:59 +0530
+(google_oauth2) Request phase initiated.
+Started GET "/auth/google_oauth2/callback?code=4/AAC16KjMCtWQTRjAuZYbW650dROeWm1vobjV3OsEUxoKmzadQLWDrOtao6tqEF-4mtyrPED6WWMOZD9Ux6-xfUg" for 127.0.0.1 at 2018-03-14 20:20:00 +0530
+(google_oauth2) Callback phase initiated.
+Processing by SessionsController#create as HTML
+  Parameters: {"code"=>"4/AAC16KjMCtWQTRjAuZYbW650dROeWm1vobjV3OsEUxoKmzadQLWDrOtao6tqEF-4mtyrPED6WWMOZD9Ux6-xfUg", "provider"=>"google_oauth2"}
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."provider" = ? AND "users"."uid" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["provider", "google_oauth2"], ["uid", "115281478544733932319"], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.7ms)[0m  [1m[33mUPDATE "users" SET "oauth_token" = ?, "oauth_expires_at" = ?, "updated_at" = ? WHERE "users"."id" = ?[0m  [["oauth_token", "ya29.Glt-BaUFJmPzhUkMCVL3IOo-EzLXvUnpbZ6_4qY05waSJffl3BZwswpoENb7jqQys0Yk51XPvzpFPnEhh0bJwIuHewROPn328znfZwKsT2rRXfIcFgOJ0V7pAN5z"], ["oauth_expires_at", "2018-03-14 15:50:00"], ["updated_at", "2018-03-14 14:50:01.462428"], ["id", 1]]
+  [1m[35m (115.2ms)[0m  [1m[36mcommit transaction[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 120ms (ActiveRecord: 116.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-14 20:20:01 +0530
+Processing by UsersController#index as HTML
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  Rendered users/index.html.erb within layouts/application (1.5ms)
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+Completed 200 OK in 69ms (Views: 68.2ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/users/new" for 127.0.0.1 at 2018-03-14 20:20:09 +0530
+Processing by UsersController#new as HTML
+  Rendering users/new.html.erb within layouts/application
+  Rendered users/_form.html.erb (3.0ms)
+  Rendered users/new.html.erb within layouts/application (4.2ms)
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+Completed 200 OK in 75ms (Views: 74.3ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/signout" for 127.0.0.1 at 2018-03-14 20:20:12 +0530
+Processing by SessionsController#destroy as HTML
+Redirected to http://localhost:3000/
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-14 20:20:12 +0530
+Processing by UsersController#index as HTML
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (0.7ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  Rendered users/index.html.erb within layouts/application (4.1ms)
+Completed 200 OK in 70ms (Views: 66.7ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/users/new" for 127.0.0.1 at 2018-03-14 20:20:16 +0530
+Processing by UsersController#new as HTML
+  Rendering users/new.html.erb within layouts/application
+  Rendered users/_form.html.erb (4.5ms)
+  Rendered users/new.html.erb within layouts/application (6.5ms)
+Completed 200 OK in 82ms (Views: 79.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2018-03-14 20:20:19 +0530
+(google_oauth2) Request phase initiated.
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2018-03-14 20:20:20 +0530
+(google_oauth2) Request phase initiated.
+Started GET "/auth/google_oauth2/callback?code=4/AACz-CjK448g3nTP4IKA07bFCF1v4lLJ_MaOfJVxfcNOv36xg9_jN7uk2auwqixqgWm4VlUNoXcCJYSoWzFfv1g" for 127.0.0.1 at 2018-03-14 20:20:20 +0530
+(google_oauth2) Callback phase initiated.
+Processing by SessionsController#create as HTML
+  Parameters: {"code"=>"4/AACz-CjK448g3nTP4IKA07bFCF1v4lLJ_MaOfJVxfcNOv36xg9_jN7uk2auwqixqgWm4VlUNoXcCJYSoWzFfv1g", "provider"=>"google_oauth2"}
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."provider" = ? AND "users"."uid" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["provider", "google_oauth2"], ["uid", "115281478544733932319"], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.7ms)[0m  [1m[33mUPDATE "users" SET "oauth_token" = ?, "oauth_expires_at" = ?, "updated_at" = ? WHERE "users"."id" = ?[0m  [["oauth_token", "ya29.Glt-BSB8G6nIA1vNA6VXIjh98OeKIyW6Xz3VVQsDj92RwYrQfkLNE8BEym5dbKkrvwyKcM0TVCmN7aYIS9vux7tdlPn7vap1_Yb50iDSInxpZzsfnHAmlrS1FjDD"], ["oauth_expires_at", "2018-03-14 15:50:20"], ["updated_at", "2018-03-14 14:50:21.307546"], ["id", 1]]
+  [1m[35m (184.6ms)[0m  [1m[36mcommit transaction[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 190ms (ActiveRecord: 185.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-14 20:20:21 +0530
+Processing by UsersController#index as HTML
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  Rendered users/index.html.erb within layouts/application (1.5ms)
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+Completed 200 OK in 53ms (Views: 51.7ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-14 20:20:31 +0530
+Processing by UsersController#index as HTML
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  Rendered users/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 47ms (Views: 46.0ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2018-03-14 20:20:34 +0530
+(google_oauth2) Request phase initiated.
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2018-03-14 20:20:35 +0530
+(google_oauth2) Request phase initiated.
+Started GET "/auth/google_oauth2/callback?code=4%2FAACJpVMnWgBPoaFoz0xHa4fHNbtS5FFV22gdDRdlo0wf_RX-7dU0HXICcHjOFB1-j8dOEklr6YXmU2EJnnLKCIQ" for 127.0.0.1 at 2018-03-14 20:26:10 +0530
+(google_oauth2) Callback phase initiated.
+Processing by SessionsController#create as HTML
+  Parameters: {"code"=>"4/AACJpVMnWgBPoaFoz0xHa4fHNbtS5FFV22gdDRdlo0wf_RX-7dU0HXICcHjOFB1-j8dOEklr6YXmU2EJnnLKCIQ", "provider"=>"google_oauth2"}
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."provider" = ? AND "users"."uid" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["provider", "google_oauth2"], ["uid", "100524214366531256308"], ["LIMIT", 1]]
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (15.4ms)[0m  [1m[32mINSERT INTO "users" ("provider", "uid", "name", "oauth_token", "oauth_expires_at", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["provider", "google_oauth2"], ["uid", "100524214366531256308"], ["name", "Shreya Singh"], ["oauth_token", "ya29.Glt-BSRpQvdrtWHdZxGIhIMvx7S9Q1HJZ2ZFoEaikahPi2vDlvPvyDN92Ta-rKxjpMSdsD1548HZX_WsR4l0JlqrHRa7IAwrt20o98FlnBkyVPgbSJPAqeOK39gn"], ["oauth_expires_at", "2018-03-14 15:56:10"], ["created_at", "2018-03-14 14:56:11.385157"], ["updated_at", "2018-03-14 14:56:11.385157"]]
+  [1m[35m (135.4ms)[0m  [1m[36mcommit transaction[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 154ms (ActiveRecord: 150.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-14 20:26:11 +0530
+Processing by UsersController#index as HTML
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  Rendered users/index.html.erb within layouts/application (2.2ms)
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 2], ["LIMIT", 1]]
+Completed 200 OK in 78ms (Views: 76.8ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/signout" for 127.0.0.1 at 2018-03-14 20:26:42 +0530
+Processing by SessionsController#destroy as HTML
+Redirected to http://localhost:3000/
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-14 20:26:42 +0530
+Processing by UsersController#index as HTML
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  Rendered users/index.html.erb within layouts/application (3.8ms)
+Completed 200 OK in 59ms (Views: 56.7ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2018-03-14 20:26:50 +0530
+(google_oauth2) Request phase initiated.
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2018-03-14 20:26:50 +0530
+(google_oauth2) Request phase initiated.
+Started GET "/auth/google_oauth2/callback?code=4/AADtExm-oXgYCreJFe54atrbS8230Ng5-khaG5F-Bbah4jpAYpu_jngJdahnZA24Os_QYhQmLINSI_RenjDyNsI" for 127.0.0.1 at 2018-03-14 20:26:51 +0530
+(google_oauth2) Callback phase initiated.
+Processing by SessionsController#create as HTML
+  Parameters: {"code"=>"4/AADtExm-oXgYCreJFe54atrbS8230Ng5-khaG5F-Bbah4jpAYpu_jngJdahnZA24Os_QYhQmLINSI_RenjDyNsI", "provider"=>"google_oauth2"}
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."provider" = ? AND "users"."uid" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["provider", "google_oauth2"], ["uid", "100524214366531256308"], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (1.2ms)[0m  [1m[33mUPDATE "users" SET "oauth_token" = ?, "oauth_expires_at" = ?, "updated_at" = ? WHERE "users"."id" = ?[0m  [["oauth_token", "ya29.Glt-BeQCF7rrBQ55D0dVmN7iXw9WcNwkaLTNqoXu-ZXPqjSwmoTXteXgQa7XBObpwk3NBXNSkCMu5JX_hcmvlUTPCQi7woA5ZtepUI5tQc2p4WePCvVyckG4m1IB"], ["oauth_expires_at", "2018-03-14 15:56:51"], ["updated_at", "2018-03-14 14:56:52.006147"], ["id", 2]]
+  [1m[35m (124.4ms)[0m  [1m[36mcommit transaction[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 129ms (ActiveRecord: 125.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-14 20:26:52 +0530
+Processing by UsersController#index as HTML
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  Rendered users/index.html.erb within layouts/application (2.3ms)
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 2], ["LIMIT", 1]]
+Completed 200 OK in 67ms (Views: 66.3ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-14 20:27:14 +0530
+Processing by UsersController#index as HTML
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  Rendered users/index.html.erb within layouts/application (3.1ms)
+Completed 200 OK in 60ms (Views: 57.6ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2018-03-14 20:27:18 +0530
+(google_oauth2) Request phase initiated.
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2018-03-14 20:27:18 +0530
+(google_oauth2) Request phase initiated.
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2018-03-14 20:31:50 +0530
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+(google_oauth2) Request phase initiated.
+Started GET "/" for 127.0.0.1 at 2018-03-14 20:32:07 +0530
+Processing by UsersController#index as HTML
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  Rendered users/index.html.erb within layouts/application (25.0ms)
+Completed 200 OK in 1537ms (Views: 1527.5ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2018-03-14 20:32:12 +0530
+(google_oauth2) Request phase initiated.
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2018-03-14 20:32:13 +0530
+(google_oauth2) Request phase initiated.
+Started GET "/auth/google_oauth2/callback?code=4%2FAABrrzDD1RQwt_mCkXmPlWhnEQa1M1OKIwOzG93_KgCrRZqKwuyrQh1leWDEyJGOJqoybPCT21DlQXjIxs9EHx8" for 127.0.0.1 at 2018-03-14 20:32:45 +0530
+(google_oauth2) Callback phase initiated.
+Processing by SessionsController#create as HTML
+  Parameters: {"code"=>"4/AABrrzDD1RQwt_mCkXmPlWhnEQa1M1OKIwOzG93_KgCrRZqKwuyrQh1leWDEyJGOJqoybPCT21DlQXjIxs9EHx8", "provider"=>"google_oauth2"}
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."provider" = ? AND "users"."uid" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["provider", "google_oauth2"], ["uid", "117987669262837189410"], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.9ms)[0m  [1m[32mINSERT INTO "users" ("provider", "uid", "name", "oauth_token", "oauth_expires_at", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["provider", "google_oauth2"], ["uid", "117987669262837189410"], ["name", "Mudita Baid"], ["oauth_token", "ya29.Glt-BVr7AWXkPQas5VP70mG2Xx3zmrfwSZxnQW0GVlWxNfEmBIcmEIBddCOPIs5euNhqiOsFZEZD5aqVk2jUL9tuRAxSk0ZXgd-nhrUWQK_rCulgn4WzRNJVyTKc"], ["oauth_expires_at", "2018-03-14 16:02:46"], ["created_at", "2018-03-14 15:02:47.371158"], ["updated_at", "2018-03-14 15:02:47.371158"]]
+  [1m[35m (109.9ms)[0m  [1m[36mcommit transaction[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 119ms (ActiveRecord: 111.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-14 20:32:47 +0530
+Processing by UsersController#index as HTML
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  Rendered users/index.html.erb within layouts/application (3.9ms)
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 3], ["LIMIT", 1]]
+Completed 200 OK in 104ms (Views: 102.5ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/users/new" for 127.0.0.1 at 2018-03-14 20:33:01 +0530
+Processing by UsersController#new as HTML
+  Rendering users/new.html.erb within layouts/application
+  Rendered users/_form.html.erb (87.4ms)
+  Rendered users/new.html.erb within layouts/application (91.0ms)
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 3], ["LIMIT", 1]]
+Completed 200 OK in 170ms (Views: 142.0ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/signout" for 127.0.0.1 at 2018-03-14 20:33:10 +0530
+Processing by SessionsController#destroy as HTML
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-14 20:33:10 +0530
+Processing by UsersController#index as HTML
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  Rendered users/index.html.erb within layouts/application (4.6ms)
+Completed 200 OK in 74ms (Views: 71.6ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-14 21:38:09 +0530
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by UsersController#index as HTML
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  Rendered users/index.html.erb within layouts/application (16.9ms)
+Completed 200 OK in 804ms (Views: 790.6ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2018-03-14 21:40:11 +0530
+(google_oauth2) Request phase initiated.
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2018-03-14 21:40:36 +0530
+(google_oauth2) Request phase initiated.
+Started GET "/auth/google_oauth2/callback?code=4/AADHjioCA0Gor7gOVyX_NrI5n-adaFHKQNiZ9USZb8k-pZsabr0eqpPBXnhdcfj30CcgOSn4_X_Q2S17X9gCPHU" for 127.0.0.1 at 2018-03-14 21:40:36 +0530
+(google_oauth2) Callback phase initiated.
+Processing by SessionsController#create as HTML
+  Parameters: {"code"=>"4/AADHjioCA0Gor7gOVyX_NrI5n-adaFHKQNiZ9USZb8k-pZsabr0eqpPBXnhdcfj30CcgOSn4_X_Q2S17X9gCPHU", "provider"=>"google_oauth2"}
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."provider" = ? AND "users"."uid" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["provider", "google_oauth2"], ["uid", "115281478544733932319"], ["LIMIT", 1]]
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.6ms)[0m  [1m[33mUPDATE "users" SET "oauth_token" = ?, "oauth_expires_at" = ?, "updated_at" = ? WHERE "users"."id" = ?[0m  [["oauth_token", "ya29.Glt-BRFMFIYZ5B5GmLMzZKe4b1pK_cRtNh37eWcJMOse1XuxXsMAbBToCVEF_wlHu2UWvPHenP6mBekhNAlLiXVnw-RS3yhciRRMxy7TCuFZPkmU_IOUfSCowIQr"], ["oauth_expires_at", "2018-03-14 17:10:36"], ["updated_at", "2018-03-14 16:11:12.372912"], ["id", 1]]
+  [1m[35m (151.1ms)[0m  [1m[36mcommit transaction[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 156ms (ActiveRecord: 152.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-14 21:41:12 +0530
+Processing by UsersController#index as HTML
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  Rendered users/index.html.erb within layouts/application (1.7ms)
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+Completed 200 OK in 50ms (Views: 49.2ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/signout" for 127.0.0.1 at 2018-03-14 21:48:36 +0530
+Processing by SessionsController#destroy as HTML
+Redirected to http://localhost:3000/
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-14 21:48:36 +0530
+Processing by UsersController#index as HTML
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  Rendered users/index.html.erb within layouts/application (4.1ms)
+Completed 200 OK in 67ms (Views: 65.8ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-14 21:54:04 +0530
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by UsersController#index as HTML
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  Rendered users/index.html.erb within layouts/application (12.3ms)
+Completed 200 OK in 290ms (Views: 278.9ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-14 21:54:50 +0530
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by UsersController#index as HTML
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  Rendered users/index.html.erb within layouts/application (15.1ms)
+Completed 200 OK in 242ms (Views: 232.6ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-14 21:56:07 +0530
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by UsersController#index as HTML
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  Rendered users/index.html.erb within layouts/application (16.5ms)
+Completed 200 OK in 313ms (Views: 304.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-14 21:59:06 +0530
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by UsersController#index as HTML
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  Rendered users/index.html.erb within layouts/application (14.8ms)
+Completed 200 OK in 280ms (Views: 267.6ms | ActiveRecord: 0.9ms)
+
+
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2018-03-14 21:59:11 +0530
+(google_oauth2) Request phase initiated.
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2018-03-14 21:59:11 +0530
+(google_oauth2) Request phase initiated.
+Started GET "/auth/google_oauth2/callback?code=4/AAAJKHppByPRzn5G0AP2XDfDyBIhQ_7j3uI-0JlCHRMNp3SdJpER8mwdFZku5iZ1yndJiqzB2zMvAc36GkQxCsE" for 127.0.0.1 at 2018-03-14 21:59:13 +0530
+(google_oauth2) Callback phase initiated.
+Processing by SessionsController#create as HTML
+  Parameters: {"code"=>"4/AAAJKHppByPRzn5G0AP2XDfDyBIhQ_7j3uI-0JlCHRMNp3SdJpER8mwdFZku5iZ1yndJiqzB2zMvAc36GkQxCsE", "provider"=>"google_oauth2"}
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."provider" = ? AND "users"."uid" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["provider", "google_oauth2"], ["uid", "115281478544733932319"], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.9ms)[0m  [1m[33mUPDATE "users" SET "oauth_token" = ?, "oauth_expires_at" = ?, "updated_at" = ? WHERE "users"."id" = ?[0m  [["oauth_token", "ya29.Glt-BVz2pyyDQP__AwUzLSEuvloGE6HityqSU05_RLOGK17izhZ2xrPn0VLNFNLQQE56PtuXAVx3H0PkStkZ1REM4K7nVTkFoPnuHHd9_EJZsVALDaiktK8hu8BI"], ["oauth_expires_at", "2018-03-14 17:29:13"], ["updated_at", "2018-03-14 16:29:15.284881"], ["id", 1]]
+  [1m[35m (190.1ms)[0m  [1m[36mcommit transaction[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 197ms (ActiveRecord: 191.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-14 21:59:15 +0530
+Processing by UsersController#index as HTML
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered users/index.html.erb within layouts/application (3.6ms)
+Completed 200 OK in 43ms (Views: 42.1ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-14 22:00:06 +0530
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by UsersController#index as HTML
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  Rendered users/index.html.erb within layouts/application (16.9ms)
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+Completed 200 OK in 266ms (Views: 253.6ms | ActiveRecord: 1.5ms)
+
+
+Started GET "/signout" for 127.0.0.1 at 2018-03-14 22:00:10 +0530
+Processing by SessionsController#destroy as HTML
+Redirected to http://localhost:3000/
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-14 22:00:10 +0530
+Processing by UsersController#index as HTML
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (1.0ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  Rendered users/index.html.erb within layouts/application (5.9ms)
+Completed 200 OK in 65ms (Views: 62.8ms | ActiveRecord: 1.2ms)
+
+
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2018-03-14 22:00:14 +0530
+(google_oauth2) Request phase initiated.
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2018-03-14 22:00:20 +0530
+(google_oauth2) Request phase initiated.
+Started GET "/auth/google_oauth2/callback?code=4/AAAnvYdnzGxGpURKEsTD2bFZ8Y5C4Mvvxmq_W6sGBHKSvhvmtUKCFIUtKLFhO2Imp4-mxvJw2yeYYlsgs3lATvA" for 127.0.0.1 at 2018-03-14 22:00:21 +0530
+(google_oauth2) Callback phase initiated.
+Processing by SessionsController#create as HTML
+  Parameters: {"code"=>"4/AAAnvYdnzGxGpURKEsTD2bFZ8Y5C4Mvvxmq_W6sGBHKSvhvmtUKCFIUtKLFhO2Imp4-mxvJw2yeYYlsgs3lATvA", "provider"=>"google_oauth2"}
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."provider" = ? AND "users"."uid" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["provider", "google_oauth2"], ["uid", "115281478544733932319"], ["LIMIT", 1]]
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.8ms)[0m  [1m[33mUPDATE "users" SET "oauth_token" = ?, "oauth_expires_at" = ?, "updated_at" = ? WHERE "users"."id" = ?[0m  [["oauth_token", "ya29.Glt-Bak8wmhuqLO0-nekVXwFHHxmTgzvfBIkg7UY0PS65v5rqD4oWJjgJ5MUmp1wX3-95ltBuc9ifjax2y4-DsA2IiNB2_gviOksToObw4DrtGpX9q7QdAMz6Dp0"], ["oauth_expires_at", "2018-03-14 17:30:20"], ["updated_at", "2018-03-14 16:30:25.825792"], ["id", 1]]
+  [1m[35m (112.5ms)[0m  [1m[36mcommit transaction[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 118ms (ActiveRecord: 113.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-14 22:00:25 +0530
+Processing by UsersController#index as HTML
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  Rendered users/index.html.erb within layouts/application (1.6ms)
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+Completed 200 OK in 42ms (Views: 40.9ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-14 22:02:05 +0530
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by UsersController#index as HTML
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  Rendered users/index.html.erb within layouts/application (11.7ms)
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+Completed 200 OK in 286ms (Views: 274.5ms | ActiveRecord: 1.2ms)
+
+
+Started GET "/signout" for 127.0.0.1 at 2018-03-14 22:02:11 +0530
+Processing by SessionsController#destroy as HTML
+Redirected to http://localhost:3000/
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-14 22:02:11 +0530
+Processing by UsersController#index as HTML
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  Rendered users/index.html.erb within layouts/application (2.5ms)
+Completed 200 OK in 53ms (Views: 49.6ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2018-03-14 22:02:13 +0530
+(google_oauth2) Request phase initiated.
+Started GET "/auth/google_oauth2" for 127.0.0.1 at 2018-03-14 22:02:13 +0530
+(google_oauth2) Request phase initiated.
+Started GET "/auth/google_oauth2/callback?code=4/AABEJtSnVTW1wVIE-DyTO7RbYBAakyAPQyCv0hFrGHxKSwkTNtfKjxmzTSYh-mzeXR3RpbEhuse9AsqAWtJ4cQU" for 127.0.0.1 at 2018-03-14 22:02:14 +0530
+(google_oauth2) Callback phase initiated.
+Processing by SessionsController#create as HTML
+  Parameters: {"code"=>"4/AABEJtSnVTW1wVIE-DyTO7RbYBAakyAPQyCv0hFrGHxKSwkTNtfKjxmzTSYh-mzeXR3RpbEhuse9AsqAWtJ4cQU", "provider"=>"google_oauth2"}
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."provider" = ? AND "users"."uid" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["provider", "google_oauth2"], ["uid", "115281478544733932319"], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (1.2ms)[0m  [1m[33mUPDATE "users" SET "oauth_token" = ?, "oauth_expires_at" = ?, "updated_at" = ? WHERE "users"."id" = ?[0m  [["oauth_token", "ya29.Glt-BY4zr4SZ9bdNScy7u-v1dQkqEZmM8nUnf6ivdPM8lQQuw02u2xpDFRvRR5nL0ofsVaj1vF-7PUuVKnrTkhaAAm74N4N8G_mw_RF_kylX3E2lxI2sen-Vdmg1"], ["oauth_expires_at", "2018-03-14 17:32:13"], ["updated_at", "2018-03-14 16:32:16.088900"], ["id", 1]]
+  [1m[35m (138.3ms)[0m  [1m[36mcommit transaction[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 145ms (ActiveRecord: 139.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-03-14 22:02:16 +0530
+Processing by UsersController#index as HTML
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (0.8ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  Rendered users/index.html.erb within layouts/application (4.9ms)
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+Completed 200 OK in 62ms (Views: 60.4ms | ActiveRecord: 1.0ms)
+
+
